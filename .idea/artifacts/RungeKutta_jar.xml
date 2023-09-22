@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RungeKutta:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RungeKutta_jar</output-path>
+    <root id="archive" name="RungeKutta.jar">
+      <element id="module-output" name="RungeKutta" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/scijava/jep/2.4.2/jep-2.4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/example/Euler2/1.0-SNAPSHOT/Euler2-1.0-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/gov/nist/math/jama/1.0.3/jama-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/yannrichet/JMathIO/1.0/JMathIO-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/yannrichet/JMathArray/1.0/JMathArray-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/yannrichet/JMathPlot/1.0.1/JMathPlot-1.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
